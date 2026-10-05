@@ -1,4 +1,4 @@
-# こんにちは、maruです！ 👋
+# maru 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=F0F0F0" alt="Python (White Medaka Style)"/>
@@ -6,5 +6,3 @@
 </p>
 
 ---
-## 🐟 最新のメダカ観察ログ
-> **まだ記録がありません。Pythonプログラムを実行して更新しましょう！**
